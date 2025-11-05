@@ -37,7 +37,7 @@
     }
     a.button {
       display: inline-block;
-      margin-top: 1.8rem;
+      margin: 1.2rem auto;
       background: #38bdf8;
       color: #0f172a;
       padding: 14px 30px;
@@ -66,10 +66,12 @@
     <h1>Smart Learning Space</h1>
     <p class="emoji">💡 Enjoy short, creative lessons that make learning fun and simple.</p>
     <p class="emoji">📘 Explore ideas that improve your focus and problem-solving skills in everyday life.</p>
+
+    <a href="https://t.me/+bWpfDC7rZugwNWE0" target="_blank" class="button">Free Learning Space</a>
+
     <p class="emoji">✨ Join our open educational community for curious minds.</p>
     <p class="emoji">⏰ New updates every week.</p>
     <p class="emoji">⚠️ 100% Free Learning Resource — No finance, no payments, no promises.</p>
-    <a href="https://t.me/+bWpfDC7rZugwNWE0" target="_blank" class="button"> Free Learning Space</a>
   </div>
 
   <footer>© 2025 Smart Learning Space | Educational Use Only</footer>
