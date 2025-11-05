@@ -67,7 +67,7 @@
     <p class="emoji">💡 Enjoy short, creative lessons that make learning fun and simple.</p>
     <p class="emoji">📘 Explore ideas that improve your focus and problem-solving skills in everyday life.</p>
 
-    <a href="[https://t.me/+bWpfDC7rZugwNWE0](https://structureacademy.github.io/structureacademy./)" target="_blank" class="button">Free Learning Space</a>
+    <a href="https://structureacademy.github.io/structureacademy./" target="_blank" class="button">Join Free Learning Space</a>
 
     <p class="emoji">✨ Join our open educational community for curious minds.</p>
     <p class="emoji">⏰ New updates every week.</p>
